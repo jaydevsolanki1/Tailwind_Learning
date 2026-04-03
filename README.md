@@ -26,4 +26,4 @@ This project is part of my journey to learn and implement **Tailwind CSS** with 
 
 ---
 
-## 📂 Project Structure
+
